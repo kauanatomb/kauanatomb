@@ -1,7 +1,7 @@
 ### Hello! I'm Kauana Tombolato
 
 - 🔭 I’m currently looking for a front-end developer career 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 😄 Pronouns: she/her
 
 ##
