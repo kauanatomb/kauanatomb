@@ -1,7 +1,7 @@
 ### Hello! I'm Kauana Tombolato
 
 - 🔭 I’m currently looking for a Full Stack career 
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning React and Node.js
 - 😄 Pronouns: she/her
 
 ##
