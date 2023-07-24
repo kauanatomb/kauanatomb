@@ -1,7 +1,9 @@
 ### Hello! I'm Kauana Tombolato
 
-- 🔭 I’m currently looking for a Full Stack career 
+- 🔭 I’m currently working on a side project 
 - 🌱 I’m currently learning React and Node.js
+- 💬 I speak English and Portuguese
+- 📌 I'm currently looking for a job or internship
 - 😄 Pronouns: she/her
 
 ##
