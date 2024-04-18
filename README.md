@@ -1,5 +1,5 @@
 ### Hello World 🌍 
-### I'm Kauana Tombolato,
+### I'm Kauana
 
 - 🔭 I’m currently working on a side project BakeSmart
 - 🌱 I’m currently learning Python
