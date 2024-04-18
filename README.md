@@ -6,6 +6,16 @@
 - 💬 I speak English and Portuguese
 - 📌 I'm currently looking for a job or internship
 
+### 🌱 My latest projects
+{{ range recentRepos 5 }}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{- end }}
+
+### 🔨 My recent Pull Requests
+{{ range recentPullRequests 5 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+{{- end }}
+
 ##
 <div align="center">
   <a href="https://github.com/kauanatomb">
