@@ -1,7 +1,7 @@
 ### Hello! I'm Kauana Tombolato
 
 - 🔭 I’m currently working on a side project BakeSmart
-- 🌱 I’m currently learning React and Node.js
+- 🌱 I’m currently learning Python
 - 💬 I speak English and Portuguese
 - 📌 I'm currently looking for a job or internship
 - 😄 Pronouns: she/her
