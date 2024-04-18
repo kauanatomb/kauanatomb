@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Python
 - 💬 I speak English and Portuguese
 - 📌 I'm currently looking for a job or internship
-- 😄 Pronouns: she/her
 
 ##
 <div align="center">
