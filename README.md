@@ -1,8 +1,8 @@
 ### Hello World 🌍 
 ### I'm Kauana
 
-- 🔭 I’m currently working on a side project BakeSmart
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on a side project
+- 🌱 I’m currently learning C
 - 💬 I speak English and Portuguese
 - 📌 I'm currently looking for a job or internship
 
