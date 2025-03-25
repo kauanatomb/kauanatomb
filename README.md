@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a side project
 - 🌱 Learning: **C**, **Advanced Rails**, **Docker**
 - 💬 Fluent in: **English** and **Portuguese**
-- 🚀 Looking for opportunities as a Junior Developer or internship where I can grow in a collaborative environment.
+- 🚀 Looking for opportunities as a Software Developer where I can grow in a collaborative environment.
 
 ##
 <div align="center">
