@@ -1,14 +1,20 @@
 ### Hey, I'm Kauana 👋🏼
 
-- 🔭 I’m currently working on a side project
-- 🌱 Learning: **C**, **Advanced Rails**, **Docker**
-- 💬 Fluent in: **English** and **Portuguese**
-- 🚀 Looking for opportunities as a Software Developer where I can grow in a collaborative environment.
+🎓 Currently studying at [42 Paris](https://42.fr/), immersed in low-level systems and project-based learning.
+
+🛠️ Building a side project while sharpening my skills in:
+- **C** (systems programming, data structures, memory management)
+- **Ruby on Rails** (advanced patterns, performance tuning)
+- **Docker** (containerization, dev environments)
+
+🗣️ Fluent in **English** and **Portuguese**
+
+🚀 I'm looking for Software Developer opportunities where I can grow through collaboration and technical challenge.
 
 ##
 <div align="center">
   <a href="https://github.com/kauanatomb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanatomb&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanatomb&layout=compact&langs_count=7&theme=solarized-light"/>
 </div>
 
 
