@@ -2,7 +2,7 @@
 
 🎓 Currently studying at [42 Paris](https://42.fr/), immersed in low-level systems and project-based learning.
 
-🛠️ Building a side project while sharpening my skills in:
+🛠️ Building a side project while improving my skills in:
 - **C** (systems programming, data structures, memory management)
 - **Ruby on Rails** (advanced patterns, performance tuning)
 - **Docker** (containerization, dev environments)
@@ -16,7 +16,6 @@
   <a href="https://github.com/kauanatomb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanatomb&layout=compact&langs_count=7&theme=solarized-light"/>
 </div>
-
 
 ##
 ### 🛠️ Technologies
