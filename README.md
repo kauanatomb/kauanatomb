@@ -1,15 +1,16 @@
-### Hey, I'm Kauana 👋🏼
+Software Engineer with experience in Ruby on Rails and a strong interest in systems programming.
 
-🎓 Currently studying at [42 Paris](https://42.fr/), immersed in low-level systems and project-based learning.
+Currently studying at [42 Paris](https://42.fr/), focusing on C, data structures, memory management, and Unix systems through project-based development.
 
-🛠️ Building a side project while improving my skills in:
-- **C** (systems programming, data structures, memory management)
-- **Ruby on Rails** (advanced patterns, performance tuning)
-- **Docker** (containerization, dev environments)
+Tech focus:
+- **Ruby on Rails** (production systems, performance, background jobs)
+- **C** (systems programming, algorithms, memory management)
+- **SQL** / **PostgreSQL**
+- **Docker** & **Linux environments**
 
-🗣️ Fluent in **English** and **Portuguese**
+Fluent in **English** and **Portuguese**
 
-🚀 I'm looking for Software Developer opportunities where I can grow through collaboration and technical challenge.
+Open to Software Engineer opportunities.
 
 ##
 <div align="center">
