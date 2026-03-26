@@ -1,10 +1,10 @@
-Software Engineer with experience in Ruby on Rails and a strong interest in systems programming.
+Software Engineer focused on systems programming and performance.
 
-Currently studying at [42 Paris](https://42.fr/), focusing on C, data structures, memory management, and Unix systems through project-based development.
+Experience with production systems and backend development, currently deepening expertise in C/C++, algorithms, and Unix systems.
 
 Tech focus:
-- **Ruby on Rails** (production systems, performance, background jobs)
-- **C** (systems programming, algorithms, memory management)
+- **Backend systems & APIs**
+- **C / C++** (systems programming, algorithms, memory management)
 - **SQL** / **PostgreSQL**
 - **Docker** & **Linux environments**
 
