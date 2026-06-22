@@ -13,6 +13,13 @@ Fluent in **English** and **Portuguese**
 Open to Software Engineer opportunities.
 
 ### 🛠️ Technologies
+
+<div align="center">
+  <a href="https://github.com/kauanatomb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanatomb&layout=compact&langs_count=7&theme=dracula&hide=HTML,css"/>
+</div>
+
+<br></br>
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
