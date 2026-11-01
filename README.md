@@ -1,8 +1,8 @@
-Software Engineer who enjoys understanding complex systems and building reliable software.
+I build software and enjoy understanding how systems work.
 
-Experience building and modernizing production systems across backend development, system integration, and software architecture. Currently deepening expertise in systems programming, algorithms, embedded software, and Unix based environments.
+My experience includes production systems, backend development, software architecture, and legacy application modernization. Currently, I am deepening my expertise in systems programming, algorithms, embedded software, and Unix based environments.
 
-Interested in backend engineering, distributed systems, cybersecurity, and software architecture.
+Interested in backend engineering, distributed systems, cybersecurity, and reliable software design.
 
 Open to Software Engineer opportunities.
 
