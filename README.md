@@ -1,14 +1,8 @@
-Software Engineer focused on systems programming and performance.
+Software Engineer who enjoys understanding complex systems and building reliable software.
 
-Experience with production systems and backend development, currently deepening expertise in C/C++, algorithms, and Unix systems.
+Experience building and modernizing production systems across backend development, system integration, and software architecture. Currently deepening expertise in systems programming, algorithms, embedded software, and Unix based environments.
 
-Tech focus:
-- **Backend systems & APIs**
-- **C / C++** (systems programming, algorithms, memory management)
-- **SQL** / **PostgreSQL**
-- **Docker** & **Linux environments**
-
-Fluent in **English** and **Portuguese**
+Interested in backend engineering, distributed systems, cybersecurity, and software architecture.
 
 Open to Software Engineer opportunities.
 
